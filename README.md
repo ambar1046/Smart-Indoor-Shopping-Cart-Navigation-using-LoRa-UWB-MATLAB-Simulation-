@@ -95,6 +95,5 @@ Nearest-neighbor ordering for multiple products
 
 Result
 Realistic shopping behavior
-Cartoves aisle-to-aisle like a real person
-
+Cart moves aisle-to-aisle like a real person
 Ensures shortest feasible route
